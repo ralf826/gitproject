@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<link></link>
+		<link>Superlink</link>
 	</head>
 	<body>
 	</body>
